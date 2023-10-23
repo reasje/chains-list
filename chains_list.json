@@ -9,7 +9,7 @@
             "symbol": "MXC",
             "explorerUrl": "https://wannsee-explorer.mxc.com",
             "enabled": false,
-            "label": "MXC Wannsee Testnet Test",
+            "label": "MXC Wannsee Testnet",
             "chainId": 5167003, 
             "isAdded": false,
             "networkType": "testnet"
