@@ -11,7 +11,7 @@
             "enabled": false,
             "label": "MXC Wannsee Testnet",
             "chainId": 5167003, 
-            "isAdded": true,
+            "isAdded": false,
             "networkType": "testnet"
         },
         {
@@ -60,7 +60,7 @@
             "enabled": false,
             "label": "Arbitrum Goerli",
             "chainId": 421613,
-            "isAdded": false,
+            "isAdded": true,
             "networkType": "testnet"
         },
         {
