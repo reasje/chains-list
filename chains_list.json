@@ -65,8 +65,8 @@
         },
         {
             "logo": "assets/svg/networks/ethereum.svg",
-            "web3RpcHttpUrl": "https://eth-sepolia.public.blastapi.io",
-            "web3RpcWebsocketUrl": "wss://eth-sepolia.public.blastapi.io",
+            "web3RpcHttpUrl": "https://ethereum-sepolia.publicnode.com",
+            "web3RpcWebsocketUrl": "wss://ethereum-sepolia.publicnode.com",
             "symbol": "ETH",
             "explorerUrl": "https://sepolia.etherscan.io/",
             "enabled": false,
