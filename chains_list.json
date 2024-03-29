@@ -11,7 +11,7 @@
             "enabled": false,
             "label": "Moonchain Geneva Testnet",
             "chainId": 5167004, 
-            "isAdded": false,
+            "isAdded": true,
             "networkType": "testnet"
         },
         {
